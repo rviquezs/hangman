@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/7f9ed7bd-b51d-44f1-890e-39edd0d38437)
+
 # Hangmang en C# - Proyecto Final Estructuras de Datos y Algoritmos
 
 ## Descripción

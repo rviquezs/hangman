@@ -1,4 +1,8 @@
-![image](https://github.com/user-attachments/assets/7f9ed7bd-b51d-44f1-890e-39edd0d38437)
+<!-- ![image](https://github.com/user-attachments/assets/7f9ed7bd-b51d-44f1-890e-39edd0d38437) -->
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/7f9ed7bd-b51d-44f1-890e-39edd0d38437" alt="hangman-screenshot" style="vertical-align: middle;"/>
+</div>
 
 # Hangmang en C# - Proyecto Final Estructuras de Datos y Algoritmos
 

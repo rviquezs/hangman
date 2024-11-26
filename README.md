@@ -1,4 +1,4 @@
-# Hangman Game in C# - Proyecto_Estructura_Datos
+# Hangman Game in C# - Proyecto Final Estructuras de Datos y Algoritmos
 
 ## Description
 This is a simple implementation of the Hangman game in C#, implemented under the `Proyecto_Estructura_Datos` namespace. The game involves guessing a hidden word by suggesting letters. Each incorrect guess reduces the number of available lives. The game ends when either the word is guessed correctly or the player runs out of lives.

@@ -1,34 +1,34 @@
-# Hangman Game in C# - Proyecto Final Estructuras de Datos y Algoritmos
+# Hangmang en C# - Proyecto Final Estructuras de Datos y Algoritmos
 
-## Description
-This is a simple implementation of the Hangman game in C#, implemented under the `Proyecto_Estructura_Datos` namespace. The game involves guessing a hidden word by suggesting letters. Each incorrect guess reduces the number of available lives. The game ends when either the word is guessed correctly or the player runs out of lives.
+## Descripción
+Esta es una implementación simple del juego de Ahorcado en C#. El juego consiste en adivinar una palabra oculta sugiriendo letras. Cada intento incorrecto reduce el número de vidas disponibles. El juego termina cuando se adivina la palabra correctamente o cuando el jugador se queda sin vidas.
 
-## Structure of the Game
-The game is implemented in several parts:
+## Estructura del Juego
+El juego está implementado en varias partes:
 
-1. **Program.cs**: Main entry point for the game that starts the game loop.
-2. **Game.cs**: Contains the game logic such as managing the word, checking guesses, and tracking lives.
-3. **WordManager.cs**: Handles random word selection from a predefined list.
-4. **GameTests.cs**: Unit tests to verify the correctness of the game logic.
+1. **Program.cs**: Punto de entrada principal para el juego que inicia el ciclo del juego.
+2. **Game.cs**: Contiene la lógica del juego, como gestionar la palabra, comprobar los intentos y hacer el seguimiento de las vidas.
+3. **WordManager.cs**: Se encarga de la selección aleatoria de palabras de una lista predefinida.
+<!-- 4. **GameTests.cs**: Pruebas unitarias para verificar la corrección de la lógica del juego. -->
 
-## Data Structures Used
-- **List**: Used to store the guessed letters.
-- **String**: Used to store the secret word.
-- **Integer**: Used to track the number of lives.
+## Estructuras de Datos Usadas
+- **List**: Para almacenar las letras adivinadas.
+- **String**: Para almacenar la palabra secreta.
+- **Integer**: Para hacer el seguimiento del número de vidas.
 
-## Additional Features
-- Random word selection from a list.
-- Display of guessed letters and remaining lives.
-- Simple error handling for invalid inputs.
+## Características Adicionales
+- Selección aleatoria de palabras de una lista.
+- Muestra de las letras adivinadas y las vidas restantes.
+- Manejo simple de errores para entradas no válidas.
 
-## How to Run
-1. Clone or download the repository.
-2. Open the solution in Visual Studio.
-3. Build and run the `Program.cs`.
+## Cómo Ejecutar
+1. Clonar o descargar el repositorio.
+2. Abrir la solución `.sln` en Visual Studio.
+3. Construir y ejecutar `Program.cs`.
 
-## Future Improvements
-- Add difficulty levels with different word lists and life counts.
-- Implement hints and scoring based on time and lives used.
+## Mejoras Futuras
+- Añadir niveles de dificultad con diferentes listas de palabras.
+- Implementar pistas y puntuaciones basadas en el tiempo y las vidas usadas.
 
-## License
-This project is licensed under the MIT License.
+## Licencia
+Este proyecto está licenciado bajo la Licencia MIT.
